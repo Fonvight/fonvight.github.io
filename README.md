@@ -1,5 +1,3 @@
-# fonvight.github.io
-
 # What's this?
 
 * Sort of personal page.
