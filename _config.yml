@@ -1,2 +1,5 @@
+theme: minima
 title: Non-personal homepage
 description: Non-personal homepage
+minima:
+  skin: auto
