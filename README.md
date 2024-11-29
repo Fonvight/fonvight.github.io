@@ -12,4 +12,4 @@ Main target audience of site is Russian-speaking for time being, so there may be
 * Одно из зеркал (Надеюсь, не единственное) для публикации документации.
 * Окружение, где я проверяю себя на то, получится-ли у меня создать сайт из готовых ресурсов.
 
-[Вернуться в Оглавление]({{ site.baseurl }}{% link /wrpge-ru/contents.md %})
+[Вернуться в Оглавление]({{ site.baseurl }}/wrpge-ru/contents.html)
