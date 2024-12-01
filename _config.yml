@@ -1,5 +1,11 @@
-theme: minima
 title: Non-personal homepage
-description: Non-personal homepage
+description: >
+  Заготовка русскоязычной документации по Wolf RPG Editor.
+
+theme: minima
 minima:
   skin: auto
+
+header_pages:
+  - README.md
+  - contents.md
