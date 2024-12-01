@@ -11,3 +11,6 @@
 На протяжении руководства встречаются цитаты в вольном переводе из следующих официальных и не очень источников:
 - Официальное руководство Wolf RPG Editor за авторством SilverWolf: [Ссылка (Яп.)](https://silversecond.com/WolfRPGEditor/Help/) [Архивная копия](http://web.archive.org/web/20230510022000/https://silversecond.com/WolfRPGEditor/Help/)
 - Любительская энциклопедия по Wolf RPG Editor во владении Yadot: [Ссылка (Яп.)](http://yado.tk/wolf/) [Архивировано](http://web.archive.org/web/20230428060544/http://yado.tk/wolf/)
+
+---
+**<|** [Оглавление]({{site.baseurl}}/wrpge-ru/contents.html) **|>**
