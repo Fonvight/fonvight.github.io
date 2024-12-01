@@ -6,8 +6,8 @@ title: Оглавление
 
 * [**Введение**]({{site.baseurl}}/wrpge-ru/introduction.html)
 * [**О редакторе**]({{site.baseurl}}/wrpge-ru/about_program.html)
-* [**Об интерфейсе**]({{ site.baseurl }}/wrpge-ru/about_editor.html):
-	1. Главное окно
+* [**Об интерфейсе**]({{site.baseurl}}/wrpge-ru/about_editor.html):
+	1. [Главное окно]({{site.baseurl}}/wrpge-ru/1_main-window.html)
 	2. Редактор карт
 		1. Создание карты
 		2. Настройка тайлсетов
